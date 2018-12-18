@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/bin/Debug/netcoreapp2.1/Variables.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/bin/Debug/netcoreapp2.1/Variables.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/bin/Debug/netcoreapp2.1/Variables.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/obj/Debug/netcoreapp2.1/Variables.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/obj/Debug/netcoreapp2.1/Variables.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/obj/Debug/netcoreapp2.1/Variables.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/Variables/obj/Debug/netcoreapp2.1/Variables.pdb
