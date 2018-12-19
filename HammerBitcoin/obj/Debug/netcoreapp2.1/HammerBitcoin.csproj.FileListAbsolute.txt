@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.pdb

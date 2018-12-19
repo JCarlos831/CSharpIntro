@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.pdb

@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/bin/Debug/netcoreapp2.1/UserInput.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/bin/Debug/netcoreapp2.1/UserInput.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/bin/Debug/netcoreapp2.1/UserInput.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/bin/Debug/netcoreapp2.1/UserInput.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/bin/Debug/netcoreapp2.1/UserInput.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/obj/Debug/netcoreapp2.1/UserInput.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/obj/Debug/netcoreapp2.1/UserInput.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/obj/Debug/netcoreapp2.1/UserInput.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/obj/Debug/netcoreapp2.1/UserInput.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/obj/Debug/netcoreapp2.1/UserInput.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/UserInput/obj/Debug/netcoreapp2.1/UserInput.pdb
