@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/bin/Debug/netcoreapp2.1/ImmutableStrings.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/bin/Debug/netcoreapp2.1/ImmutableStrings.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/bin/Debug/netcoreapp2.1/ImmutableStrings.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/bin/Debug/netcoreapp2.1/ImmutableStrings.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/bin/Debug/netcoreapp2.1/ImmutableStrings.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/obj/Debug/netcoreapp2.1/ImmutableStrings.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/obj/Debug/netcoreapp2.1/ImmutableStrings.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/obj/Debug/netcoreapp2.1/ImmutableStrings.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/obj/Debug/netcoreapp2.1/ImmutableStrings.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/obj/Debug/netcoreapp2.1/ImmutableStrings.dll
+/Users/JuanCMontoya/Projects/RiderProjects/TimBuchalka/CSharpCrashCourse/ImmutableStrings/ImmutableStrings/obj/Debug/netcoreapp2.1/ImmutableStrings.pdb
